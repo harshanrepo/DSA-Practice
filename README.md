@@ -1,10 +1,12 @@
- DSA Practice – Striver's A2Z Sheet (Python)
+📘 DSA Practice – Striver's A2Z Sheet (Python)
 
 A structured collection of Data Structures & Algorithms solutions written in Python,
 following Striver's A2Z DSA Sheet. This repo is updated daily as part of my 
 consistent coding practice journey.
 
 ---
+
+📂 Folder Structure
 
 DSA-Practice/
 ├── Array/
@@ -18,7 +20,8 @@ DSA-Practice/
 └── Sorting/
     ├── Sorting - I/
     └── Sorting - II/
- ---
+
+---
 
 🛠️ Tech Stack
 
