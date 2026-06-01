@@ -6,9 +6,6 @@ consistent coding practice journey.
 
 ---
 
-📂 Folder Structure
-
-DSA-Practice/
 DSA-Practice/
 ├── Array/
 │   ├── Easy/
@@ -21,9 +18,7 @@ DSA-Practice/
 └── Sorting/
     ├── Sorting - I/
     └── Sorting - II/
-    └── Sorting - II/
-
----
+ ---
 
 🛠️ Tech Stack
 
