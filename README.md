@@ -8,6 +8,7 @@ consistent coding practice journey.
 
 📂 Folder Structure
 
+```text
 DSA-Practice/
 ├── Array/
 │   ├── Easy/
@@ -20,6 +21,7 @@ DSA-Practice/
 └── Sorting/
     ├── Sorting - I/
     └── Sorting - II/
+```
 
 ---
 
@@ -33,17 +35,21 @@ DSA-Practice/
 
 🎯 Goal
 
-To solve DSA problems consistently — at least one problem per day —
-and build a strong foundation for technical interviews.
+- Practice Data Structures and Algorithms consistently.
+- Solve at least one problem every day.
+- Strengthen problem-solving skills.
+- Prepare for coding interviews and online assessments.
 
 ---
 
 👨‍💻 About Me
 
-Harsha | CSE Student | Chennai  
+Shri Harshan.M  
+Computer Science & Engineering Student
+
 🔗 [LinkedIn](https://linkedin.com/in/mrshri-harshan) | 
 🐙 [GitHub](https://github.com/harshanrepo)
 
 ---
 
-⭐ *If this helps you, consider giving it a star!*
+⭐ If this helps you, consider giving it a star!
