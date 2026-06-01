@@ -9,8 +9,10 @@ consistent coding practice journey.
 📂 Folder Structure
 
 DSA-Practice/
+DSA-Practice/
 ├── Array/
 │   ├── Easy/
+│   └── Medium/
 ├── Basic Hashing/
 ├── Basic Recursion/
 ├── Known Basic Maths/
@@ -18,6 +20,7 @@ DSA-Practice/
 ├── Patterns/
 └── Sorting/
     ├── Sorting - I/
+    └── Sorting - II/
     └── Sorting - II/
 
 ---
