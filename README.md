@@ -6,24 +6,6 @@ consistent coding practice journey.
 
 ---
 
-📂 Folder Structure
-
-```text
-DSA-Practice/
-├── Array/
-│   ├── Easy/
-│   └── Medium/
-├── Basic Hashing/
-├── Basic Recursion/
-├── Known Basic Maths/
-├── Learn the Basics/
-├── Patterns/
-└── Sorting/
-    ├── Sorting - I/
-    └── Sorting - II/
-```
-
----
 
 🛠️ Tech Stack
 
