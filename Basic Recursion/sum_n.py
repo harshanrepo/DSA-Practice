@@ -1,4 +1,6 @@
-def sum_n(i,sum):
+
+ # Parameterised Recursion
+'''def sum_n(i,sum):
     if i<1:
         print(sum)
         return
@@ -6,4 +8,14 @@ def sum_n(i,sum):
 
 i=3
 sum=0
-sum_n(i,sum)
+sum_n(i,sum)'''
+
+# Functional Recursion
+
+def sum_n(sum):
+    if sum==0:
+        return 0
+    return sum+sum_n(sum-1)
+
+sum=3
+print(sum_n(sum))
